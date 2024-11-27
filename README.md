@@ -340,8 +340,8 @@ Row | Step | Description | Completed
 1 | 3-1 | 1st Favorite emoji |  🐙 
 2 | 3-2 | Link to `commit #1 from Github.com` | [Commit #1 from Github.com](https://github.com/MurtazaKafka/learn-git-milestones/commit/5dda132bff1f640768149909ec4210af57c222b7)
 3 | 3-3 | Link to markdown tables docs | [markdown tables in github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-4 | 3-4 | What does `log` do? |
-5 | 4-1 | 2nd Favorite emoji |
+4 | 3-4 | What does `log` do? | git log lists the commits made in that repository in reverse chronological order
+5 | 4-1 | 2nd Favorite emoji | 
 6 | 4-2 | Link to `commit #2 from Github Desktop` |
 7 | 7-1 | Full path to your working directory |
 8 | 7-2 | Link to `commit #3 from CLI` |
