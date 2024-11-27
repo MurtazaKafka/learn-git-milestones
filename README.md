@@ -347,7 +347,7 @@ Row | Step | Description | Completed
 8 | 7-2 | Link to `commit #3 from CLI` | [cli commit](https://github.com/MurtazaKafka/learn-git-milestones/commit/4543032084c64369518284b320482c2a354212da)
 9 | 8-1 | Link to `first-website` github.com repo page | [first website repo](https://github.com/MurtazaKafka/first-website)
 10 | 7-1 | Link to `first-website` github.io "project site" | [first website live](https://murtazakafka.github.io/first-website/)
-12 | 8-1 | What is in Owen's dev branch? | 
+12 | 8-1 | What is in Owen's dev branch? | The cool new feature file is a media file that shows the video of a famous song, where a guy is singing and dancing. 
 13 | 9-1 | Link to your new branch on github.com | 
 14 | 10-1 | Link to your network graph | 
 15 | 11-1 | Link to the PR you made on a partner's github.com repo | 
