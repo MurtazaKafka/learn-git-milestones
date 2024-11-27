@@ -343,7 +343,7 @@ Row | Step | Description | Completed
 4 | 3-4 | What does `log` do? | git log lists the commits made in that repository in reverse chronological order
 5 | 4-1 | 2nd Favorite emoji | 😺 
 6 | 4-2 | Link to `commit #2 from Github Desktop` | [Commit #2 from Github Desktop](https://github.com/MurtazaKafka/learn-git-milestones/commit/01efecca4fb049239b3ed73b749e67ef979540b0)
-7 | 7-1 | Full path to your working directory |
+7 | 7-1 | Full path to your working directory | [first website](https://github.com/MurtazaKafka/first-website)
 8 | 7-2 | Link to `commit #3 from CLI` |
 9 | 8-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
