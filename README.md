@@ -348,9 +348,9 @@ Row | Step | Description | Completed
 9 | 8-1 | Link to `first-website` github.com repo page | [first website repo](https://github.com/MurtazaKafka/first-website)
 10 | 7-1 | Link to `first-website` github.io "project site" | [first website live](https://murtazakafka.github.io/first-website/)
 12 | 8-1 | What is in Owen's dev branch? | The cool new feature file is a media file that shows the video of a famous song, where a guy is singing and dancing. 
-13 | 9-1 | Link to your new branch on github.com | 
-14 | 10-1 | Link to your network graph | 
-15 | 11-1 | Link to the PR you made on a partner's github.com repo | 
+13 | 9-1 | Link to your new branch on github.com | [murtaza-changes](https://github.com/MurtazaKafka/learn-git-milestones/tree/murtaza-changes)
+14 | 10-1 | Link to your network graph | https://github.com/MurtazaKafka/learn-git-milestones/network
+15 | 11-1 | Link to the PR you made on a partner's github.com repo | [pull request on Pragma](https://github.com/alpnix/Pragma/compare/master...MurtazaKafka:murtaza-changes?expand=1)
 
 
 
